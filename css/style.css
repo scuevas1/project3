@@ -221,6 +221,13 @@ hr {
   text-align: center;
 }
 
+#name4 {
+  font-size: 40px;
+  padding:20px;
+  font-family: georgia;
+  text-align: center;
+}
+
 .img3 {
   width: 300px;
   height: 350px;
