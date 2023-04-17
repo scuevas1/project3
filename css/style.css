@@ -214,15 +214,22 @@ hr {
   background-color: #f1f1f1;
 }
 
-#name3 {
+.name3 {
   font-size: 40px;
   padding:20px;
   font-family: georgia;
   text-align: center;
 }
 
+#myvacation {
+  font-size: 35px;
+  padding:20px;
+  font-family: georgia;
+  text-align: center;
+}
+
 #name4 {
-  font-size: 40px;
+  font-size: 35px;
   padding:20px;
   font-family: georgia;
   text-align: center;
